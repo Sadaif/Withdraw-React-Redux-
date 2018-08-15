@@ -1,4 +1,4 @@
-<img src="/home/sadaif/Desktop/withdraw.png" />
+<img src="./home/sadaif/Desktop/withdraw.png" />
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
