@@ -1,5 +1,12 @@
+"Withdraw Image"
+
 <img src="https://user-images.githubusercontent.com/31511817/44171773-9f4eb500-a0f4-11e8-8966-461d1ce57832.png" />
 
+git clone https://github.com/Sadaif/Withdraw-React-Redux-.git
+cd Withdraw-React-Redux-
+npm i
+npm start
+Enjoy... 😎
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
